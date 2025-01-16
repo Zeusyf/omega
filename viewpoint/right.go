@@ -11,12 +11,12 @@ package viewpoint
 import (
 	"fmt"
 
-	"github.com/omegasuite/btcd/chaincfg/chainhash"
-	"github.com/omegasuite/btcd/database"
-	//	"github.com/omegasuite/btcd/wire"
-	"github.com/omegasuite/btcutil"
-	"github.com/omegasuite/omega"
-	"github.com/omegasuite/omega/token"
+	"github.com/zeusyf/btcd/chaincfg/chainhash"
+	"github.com/zeusyf/btcd/database"
+	//	"github.com/zeusyf/btcd/wire"
+	"github.com/zeusyf/btcutil"
+	"github.com/zeusyf/omega"
+	"github.com/zeusyf/omega/token"
 )
 
 type RightEntry struct {

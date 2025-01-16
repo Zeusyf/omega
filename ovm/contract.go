@@ -11,10 +11,10 @@ package ovm
 import (
 	"encoding/hex"
 	"fmt"
-	"github.com/omegasuite/omega"
+	"github.com/zeusyf/omega"
 
-	//	"github.com/omegasuite/btcd/chaincfg/chainhash"
-	"github.com/omegasuite/omega/token"
+	//	"github.com/zeusyf/btcd/chaincfg/chainhash"
+	"github.com/zeusyf/omega/token"
 	"math/big"
 )
 

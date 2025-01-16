@@ -9,7 +9,7 @@
 package token
 
 import (
-	"github.com/omegasuite/btclog"
+	"github.com/zeusyf/btclog"
 )
 
 // log is a logger that is initialized with no output filters.  This

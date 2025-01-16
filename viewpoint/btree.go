@@ -10,9 +10,9 @@ package viewpoint
 
 import (
 	"math/big"
-	"github.com/omegasuite/btcutil/math"
+	"github.com/zeusyf/btcutil/math"
 	"os"
-	"github.com/omegasuite/btcd/chaincfg/chainhash"
+	"github.com/zeusyf/btcd/chaincfg/chainhash"
 	"encoding/binary"
 )
 

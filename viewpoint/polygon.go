@@ -11,13 +11,13 @@ package viewpoint
 import (
 	//	"fmt"
 
-	"github.com/omegasuite/btcd/chaincfg/chainhash"
-	"github.com/omegasuite/btcd/database"
+	"github.com/zeusyf/btcd/chaincfg/chainhash"
+	"github.com/zeusyf/btcd/database"
 	"fmt"
-	"github.com/omegasuite/btcd/blockchain/bccompress"
+	"github.com/zeusyf/btcd/blockchain/bccompress"
 	//	"github.com/btcsuite/btcd/wire"
-	"github.com/omegasuite/btcutil"
-	"github.com/omegasuite/omega/token"
+	"github.com/zeusyf/btcutil"
+	"github.com/zeusyf/omega/token"
 	"math/big"
 )
 

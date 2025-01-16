@@ -7,7 +7,7 @@ package minerchain
 import (
 	"testing"
 
-	"github.com/omegasuite/btcd/chaincfg/chainhash"
+	"github.com/zeusyf/btcd/chaincfg/chainhash"
 )
 
 // TestThresholdStateStringer tests the stringized output for the

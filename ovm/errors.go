@@ -9,7 +9,7 @@
 package ovm
 
 import (
-	"github.com/omegasuite/omega"
+	"github.com/zeusyf/omega"
 )
 
 var (

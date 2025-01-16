@@ -11,13 +11,13 @@ package ovm
 import (
 	"encoding/binary"
 	"fmt"
-	"github.com/omegasuite/btcd/wire/common"
-	"github.com/omegasuite/omega"
+	"github.com/zeusyf/btcd/wire/common"
+	"github.com/zeusyf/omega"
 	"strings"
 	"time"
 
-	//	"github.com/omegasuite/btcd/chaincfg/chainhash"
-	//	"github.com/omegasuite/btcd/wire/common"
+	//	"github.com/zeusyf/btcd/chaincfg/chainhash"
+	//	"github.com/zeusyf/btcd/wire/common"
 	"sync/atomic"
 )
 

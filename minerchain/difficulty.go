@@ -11,16 +11,16 @@ package minerchain
 import (
 	"bytes"
 	"fmt"
-	"github.com/omegasuite/btcd/chaincfg"
-	"github.com/omegasuite/btcd/database"
-	"github.com/omegasuite/omega/token"
+	"github.com/zeusyf/btcd/chaincfg"
+	"github.com/zeusyf/btcd/database"
+	"github.com/zeusyf/omega/token"
 	"math/big"
 	"strconv"
 	"time"
 
-	"github.com/omegasuite/btcd/blockchain/chainutil"
-	"github.com/omegasuite/btcd/chaincfg/chainhash"
-	"github.com/omegasuite/btcd/wire"
+	"github.com/zeusyf/btcd/blockchain/chainutil"
+	"github.com/zeusyf/btcd/chaincfg/chainhash"
+	"github.com/zeusyf/btcd/wire"
 )
 
 var (

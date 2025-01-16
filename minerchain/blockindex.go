@@ -9,8 +9,8 @@
 package minerchain
 
 import (
-	"github.com/omegasuite/btcd/blockchain/chainutil"
-	"github.com/omegasuite/btcd/wire"
+	"github.com/zeusyf/btcd/blockchain/chainutil"
+	"github.com/zeusyf/btcd/wire"
 )
 
 type blockchainNodeData struct {

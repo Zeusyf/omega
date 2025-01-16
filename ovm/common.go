@@ -19,7 +19,7 @@ package ovm
 import (
 	"math/big"
 
-	"github.com/omegasuite/btcd/chaincfg/chainhash"
+	"github.com/zeusyf/btcd/chaincfg/chainhash"
 )
 
 // calculates the memory size required for a step

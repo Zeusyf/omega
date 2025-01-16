@@ -14,12 +14,12 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/omegasuite/btcd/blockchain"
-	"github.com/omegasuite/btcd/blockchain/bccompress"
-	"github.com/omegasuite/btcd/blockchain/chainutil"
-	"github.com/omegasuite/btcd/chaincfg/chainhash"
-	"github.com/omegasuite/btcd/database"
-	"github.com/omegasuite/btcd/wire"
+	"github.com/zeusyf/btcd/blockchain"
+	"github.com/zeusyf/btcd/blockchain/bccompress"
+	"github.com/zeusyf/btcd/blockchain/chainutil"
+	"github.com/zeusyf/btcd/chaincfg/chainhash"
+	"github.com/zeusyf/btcd/database"
+	"github.com/zeusyf/btcd/wire"
 )
 
 const (

@@ -1,3 +1,3 @@
-module github.com/omegasuite/omega/token
+module github.com/zeusyf/omega/token
 
 go 1.22.1

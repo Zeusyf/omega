@@ -11,20 +11,20 @@ package minerchain
 import (
 	"bytes"
 	"fmt"
-	"github.com/omegasuite/btcd/btcec"
-	"github.com/omegasuite/btcd/chaincfg"
-	"github.com/omegasuite/btcutil"
+	"github.com/zeusyf/btcd/btcec"
+	"github.com/zeusyf/btcd/chaincfg"
+	"github.com/zeusyf/btcutil"
 	"math/big"
 //	"net"
 	"time"
 
 	"encoding/hex"
-	"github.com/omegasuite/btcd/blockchain"
-	"github.com/omegasuite/btcd/blockchain/chainutil"
-	"github.com/omegasuite/btcd/chaincfg/chainhash"
-	"github.com/omegasuite/btcd/database"
-	"github.com/omegasuite/btcd/wire"
-	"github.com/omegasuite/btcd/wire/common"
+	"github.com/zeusyf/btcd/blockchain"
+	"github.com/zeusyf/btcd/blockchain/chainutil"
+	"github.com/zeusyf/btcd/chaincfg/chainhash"
+	"github.com/zeusyf/btcd/database"
+	"github.com/zeusyf/btcd/wire"
+	"github.com/zeusyf/btcd/wire/common"
 )
 
 /*

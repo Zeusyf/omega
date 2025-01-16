@@ -10,8 +10,8 @@ package ovm
 
 import (
 	"fmt"
-	"github.com/omegasuite/btcd/chaincfg/chainhash"
-	"github.com/omegasuite/omega"
+	"github.com/zeusyf/btcd/chaincfg/chainhash"
+	"github.com/zeusyf/omega"
 	"math/big"
 )
 

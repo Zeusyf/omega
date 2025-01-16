@@ -11,7 +11,7 @@ package ovm
 import (
 	"encoding/binary"
 //	"fmt"
-	"github.com/omegasuite/btcd/chaincfg/chainhash"
+	"github.com/zeusyf/btcd/chaincfg/chainhash"
 )
 
 const (

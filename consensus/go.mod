@@ -1,3 +1,3 @@
-module github.com/omegasuite/omega/consensus
+module github.com/zeusyf/omega/consensus
 
 go 1.22.1

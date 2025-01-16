@@ -10,13 +10,13 @@ package ovm
 
 import (
 	"fmt"
-	"github.com/omegasuite/btcd/btcec"
-	"github.com/omegasuite/btcd/chaincfg"
-	"github.com/omegasuite/btcd/database"
-	"github.com/omegasuite/btcd/wire/common"
-	"github.com/omegasuite/btcutil"
-	"github.com/omegasuite/omega"
-	"github.com/omegasuite/omega/viewpoint"
+	"github.com/zeusyf/btcd/btcec"
+	"github.com/zeusyf/btcd/chaincfg"
+	"github.com/zeusyf/btcd/database"
+	"github.com/zeusyf/btcd/wire/common"
+	"github.com/zeusyf/btcutil"
+	"github.com/zeusyf/omega"
+	"github.com/zeusyf/omega/viewpoint"
 	"golang.org/x/crypto/ripemd160"
 	"math"
 	"math/big"
@@ -24,10 +24,10 @@ import (
 
 	"bytes"
 	"encoding/binary"
-	"github.com/omegasuite/btcd/chaincfg/chainhash"
-	"github.com/omegasuite/btcd/wire"
-	//	"github.com/omegasuite/btcd/wire/common"
-	"github.com/omegasuite/omega/token"
+	"github.com/zeusyf/btcd/chaincfg/chainhash"
+	"github.com/zeusyf/btcd/wire"
+	//	"github.com/zeusyf/btcd/wire/common"
+	"github.com/zeusyf/omega/token"
 )
 
 type SigHashType byte

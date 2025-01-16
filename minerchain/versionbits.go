@@ -10,10 +10,10 @@ package minerchain
 
 import (
 //	"fmt"
-	"github.com/omegasuite/btcd/blockchain/chainutil"
+	"github.com/zeusyf/btcd/blockchain/chainutil"
 
-	"github.com/omegasuite/btcd/chaincfg"
-//	"github.com/omegasuite/btcd/wire"
+	"github.com/zeusyf/btcd/chaincfg"
+//	"github.com/zeusyf/btcd/wire"
 )
 
 const (

@@ -1,3 +1,3 @@
-module github.com/omegasuite/omega/minerchain
+module github.com/zeusyf/omega/minerchain
 
 go 1.22.1

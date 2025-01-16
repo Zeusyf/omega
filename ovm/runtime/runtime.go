@@ -21,7 +21,7 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/omegasuite/ovm"
+	"github.com/zeusyf/ovm"
 )
 
 // Config is a basic type specifying certain configuration flags for running

@@ -1,3 +1,3 @@
-module github.com/omegasuite/omega/ovm
+module github.com/zeusyf/omega/ovm
 
 go 1.22.1

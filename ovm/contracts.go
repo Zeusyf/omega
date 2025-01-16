@@ -10,15 +10,15 @@ package ovm
 
 import (
 	"fmt"
-	"github.com/omegasuite/btcd/wire/common"
-	"github.com/omegasuite/btcutil"
-	"github.com/omegasuite/omega"
+	"github.com/zeusyf/btcd/wire/common"
+	"github.com/zeusyf/btcutil"
+	"github.com/zeusyf/omega"
 	"sync/atomic"
 
 	"bytes"
 	"encoding/binary"
-	"github.com/omegasuite/btcd/btcec"
-	"github.com/omegasuite/btcd/chaincfg/chainhash"
+	"github.com/zeusyf/btcd/btcec"
+	"github.com/zeusyf/btcd/chaincfg/chainhash"
 )
 
 type vunit struct {

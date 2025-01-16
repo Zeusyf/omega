@@ -5,12 +5,12 @@
 package main
 
 import (
-	"github.com/omegasuite/btcd/wire/common"
-	"github.com/omegasuite/omega/ovm"
+	"github.com/zeusyf/btcd/wire/common"
+	"github.com/zeusyf/omega/ovm"
 	//	"io"
 	"math/big"
 
-	"github.com/omegasuite/btcd/chaincfg/chainhash"
+	"github.com/zeusyf/btcd/chaincfg/chainhash"
 )
 
 const (

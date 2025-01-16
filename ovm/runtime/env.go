@@ -17,8 +17,8 @@
 package runtime
 
 import (
-	"github.com/omegasuite"
-	"github.com/omegasuite/ovm"
+	"github.com/zeusyf"
+	"github.com/zeusyf/ovm"
 )
 
 func NewEnv(cfg *Config) *vm.EVM {

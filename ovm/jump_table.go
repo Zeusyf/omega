@@ -8,7 +8,7 @@
 
 package ovm
 
-import "github.com/omegasuite/omega"
+import "github.com/zeusyf/omega"
 
 type executionFunc func(pc *int, env *OVM, contract *Contract, stack *Stack) omega.Err
 
