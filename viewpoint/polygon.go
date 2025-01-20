@@ -15,7 +15,7 @@ import (
 	"github.com/zeusyf/btcd/database"
 	"fmt"
 	"github.com/zeusyf/btcd/blockchain/bccompress"
-	//	"github.com/btcsuite/btcd/wire"
+	//	"github.com/zeusyf/btcd/wire"
 	"github.com/zeusyf/btcutil"
 	"github.com/zeusyf/omega/token"
 	"math/big"

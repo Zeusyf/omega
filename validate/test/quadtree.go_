@@ -11,7 +11,7 @@
 package validate
 
 import (
-	"github.com/btcsuite/omega/viewpoint"
+	"github.com/zeusyf/omega/viewpoint"
 )
 
 type qitem struct {

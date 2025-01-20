@@ -39,7 +39,7 @@ func main() {
 	for true {
 		cmd := exec.Command("concur.bat")
 		dir,_ := os.Getwd()
-		cmd.Dir = dir	// "f:/Gopath/src/github.com/btcsuite/omega/consensus/regress"
+		cmd.Dir = dir	// "f:/Gopath/src/github.com/zeusyf/omega/consensus/regress"
 		fmt.Printf(cmd.String())
 
 		ended := make(chan bool)
